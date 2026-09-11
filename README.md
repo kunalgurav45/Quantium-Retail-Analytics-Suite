@@ -41,4 +41,10 @@ revenue, customer visits, and transaction frequency — supporting a recommendat
 to extend the trial strategy to additional stores. 🚀
 
 📷 Screenshots
-🔗 
+🔗 ![Dashboard Preview](Executive%20Overview%20%26%20Customer%20Insights%20.png)
+🔗 ![Dashboard Preview](Quantium%20Trial%20Store%20Analysis%20%26%20Recommendations.png)
+
+🔗 Connect
+💼 LinkedIn: linkedin.com/in/kunalgurav45
+📧 Email: kunalgurav111@gmail.com
+
